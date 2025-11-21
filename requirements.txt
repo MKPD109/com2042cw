@@ -1,0 +1,6 @@
+Django==5.2.6
+Pillow
+djangorestframework
+data-wizard
+crispy-bootstrap5
+drf-nested-routers
